@@ -1,26 +1,19 @@
-# Mindustry Expansion License
+# ME - Mindustry Expansion [Early Access]
 
-## Terms and Conditions
+<p align="center"><img src="icon.png" alt="logo" width="200"></p>
 
-1. **Contributions**
-   - Contributions to this project are welcome but must be approved by the owner. 
-   - To contribute, please submit a pull request. The owner will review the request and decide whether to include the contribution in the project.
+<p align="center">
+  <a href="https://github.com/zuoranartemwing/MindustryExpansion/releases"><img src="https://img.shields.io/github/v/release/zuoranartemwing/MindustryExpansion?color=green&include_prereleases&label=DOWNLOAD%20LATEST%20RELEASE&logo=github&logoColor=white&style=for-the-badge"></a>
+  <a href="https://discord.gg/pK6Zp2U7jd"><img src="https://img.shields.io/badge/Discord_Community-Join-2ea44f?logo=discord&color=5865F2&style=for-the-badge"></a>
+</p>
 
-2. **Distribution and Content Use**
-   - Unauthorized distribution or theft of any content within this repository is strictly prohibited.
-   - All assets, including but not limited to code, graphics, and audio files, must not be used, copied, or distributed without explicit permission from the owner.
+![Banner](assests/img/banner.png)
 
-3. **Asset Usage**
-   - Any use of the assets within this repository requires explicit permission from the owner.
-   - This includes but is not limited to any graphical elements, sounds, and code snippets.
+Our Project is: `Mindustry Expansion`  
+Mindustry Expansion mod aim for extending the Mindustry Expansion content with various unique Unit, Turret, Power Generator, Utility (like duct or convenyor and etc) and as close as vanilla does.
 
-## Contact
-For permissions, contributions, or any other inquiries, please contact the repository owner through GitHub.
+**You can use Our code for free for personal use | Permission required for publication or sharing**
 
----
+Note: Now support english, Translation not yet accepted.
 
-© 2024 [Your Name or Username]. All rights reserved.
-
-<img alt="Static Badge" src="https://img.shields.io/badge/ALL-RELEASES-brightgreen?link=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dalign%2Bcenter%2Bgithub%2Breadme%26oq%3Da%26gs_lcrp%3DEgZjaHJvbWUqEAgBEEUYExgnGDsYgAQYigUyBggAEEUYPDIQCAEQRRgTGCcYOxiABBiKBTIGCAIQRRg7MgYIAxBFGDsyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEAUYQNIBCDY3OTJqMGo3qAIAsAIA%26sourceid%3Dchrome%26ie%3DUTF-8">
-
-
+See <a href="mod-team.md">Mindustry Expansion - Project Team</a> here.
