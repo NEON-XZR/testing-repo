@@ -1,19 +1,39 @@
 # ME - Mindustry Expansion [Early Access]
 
-<p align="center"><img src="https://github.com/zuoranartemwing/MindustryExpansion/blob/main/icon.png" alt="logo" width="200"></p>
-
-<p align="center">
-  <a href="https://github.com/zuoranartemwing/MindustryExpansion/releases"><img src="https://img.shields.io/github/v/release/zuoranartemwing/MindustryExpansion?color=green&include_prereleases&label=DOWNLOAD%20LATEST%20RELEASE&logo=github&logoColor=white&style=for-the-badge"></a>
-  <a href="https://discord.gg/pK6Zp2U7jd"><img src="https://img.shields.io/badge/Discord_Community-Join-2ea44f?logo=discord&color=5865F2&style=for-the-badge"></a>
-</p>
+<p align="center"><img src="https://github.com/zuoranartemwing/MindustryExpansion/blob/main/icon.png" alt="logo" height="500" width="500"></p>
 
 ![Banner](https://github.com/zuoranartemwing/MindustryExpansion/blob/main/assests/img/banner.png)
+[![Releases](https://img.shields.io/badge/Mindustry_Expansion-RELEASES-brightgreen?style=flat-square&logo=github&logoColor=white
+)](https://github.com/zuoranartemwing/MindustryExpansion/releases)
+[![DISCORD](https://img.shields.io/badge/Discord-JOIN-blue?style=flat-square&logo=discord&logoColor=blue)](https://google.com) [![MODDING TEAM](https://img.shields.io/badge/Modding-Team-brightgreen?style=flat-square&logo=github&logoColor=white
+)](https://github.com/zuoranartemwing/MindustryExpansion/blob/main/mod-team.md)
 
-Our Project is: `Mindustry Expansion`  
-Mindustry Expansion mod aim for extending the Mindustry Expansion content with various unique Unit, Turret, Power Generator, Utility (like duct or convenyor and etc) and as close as vanilla does.
+## What is Mindustry Expansion?
+Mindustry Expansion mod aim for extending the Mindustry Expansion content with various unique Unit, Turret, Power Generator, Utility (like duct or convenyor and etc) and     as close as vanilla does.
 
-**You can use Our code for free for personal use | Permission required for publication or sharing**
+## Factions Preview
+This mod has 3 factions/teams, each faction presents content that is unique to that faction. Here's a bit of each faction's content preview:
 
-Note: Now support english, Translation not yet accepted.
+## LH Industry
+<p align="center"><img src="https://github.com/zuoranartemwing/MindustryExpansion/blob/main/icon.png" height="100" width="100"></p>
 
-See <a href="mod-team.md">Mindustry Expansion - Project Team</a> here.
+Faction founded and developed by zuoranartemwing, further information needed
+
+## Aerillion Pact
+<p align="center"><img src="https://github.com/zuoranartemwing/MindustryExpansion/blob/main/icon.png" height="100" width="100"></p>
+
+Pact developed by Neon XZR. This pact delivers unique and *absurd* content to filling the battle with more chaos and fun, like a Rotary Ship Serie Unit (Basically an UFO) and literal CIWS. Analyzed by the 3 Factions, Aerillion Pact focuses on more DPS damage (low damage, quick firerate) rather than slow burst damage, althought, not all.
+
+## Deltanex
+<p align="center"><img src="https://github.com/zuoranartemwing/MindustryExpansion/blob/main/icon.png" height="100" width="100"></p>
+
+Faction founded and developed by Kanaede, this faction is abandoned for unknown reasons. Further information needed
+
+---
+
+> [!CAUTION]
+> **You can use Our code for free for personal use. Further information is on the [License](https://github.com/zuoranartemwing/MindustryExpansion/blob/main/LICENSE.md)**
+
+> [!NOTE]
+> Now support english, Translation not yet accepted.
+> <br>Mod is still work in progress, expect unbalanced and unfinished content being released.
