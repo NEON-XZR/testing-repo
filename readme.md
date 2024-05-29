@@ -5,7 +5,7 @@
 ![Banner](https://github.com/zuoranartemwing/MindustryExpansion/blob/main/assests/img/banner.png)
 [![Releases](https://img.shields.io/badge/Mindustry_Expansion-RELEASES-brightgreen?style=flat-square&logo=github&logoColor=white
 )](https://github.com/zuoranartemwing/MindustryExpansion/releases)
-[![DISCORD](https://img.shields.io/badge/Discord-JOIN-blue?style=flat-square&logo=discord&logoColor=blue)](https://google.com) [![MODDING TEAM](https://img.shields.io/badge/Modding-Team-brightgreen?style=flat-square&logo=github&logoColor=white
+[![DISCORD](https://img.shields.io/badge/Discord-JOIN-blue?style=flat-square&logo=discord&logoColor=blue)](https://discord.gg/YR2QfxAuue) [![MODDING TEAM](https://img.shields.io/badge/Modding-Team-brightgreen?style=flat-square&logo=github&logoColor=white
 )](https://github.com/zuoranartemwing/MindustryExpansion/blob/main/mod-team.md)
 
 ## What is Mindustry Expansion?
