@@ -20,3 +20,7 @@ For permissions, contributions, or any other inquiries, please contact the repos
 ---
 
 © 2024 [Your Name or Username]. All rights reserved.
+
+<img alt="Static Badge" src="https://img.shields.io/badge/ALL-RELEASES-brightgreen?link=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dalign%2Bcenter%2Bgithub%2Breadme%26oq%3Da%26gs_lcrp%3DEgZjaHJvbWUqEAgBEEUYExgnGDsYgAQYigUyBggAEEUYPDIQCAEQRRgTGCcYOxiABBiKBTIGCAIQRRg7MgYIAxBFGDsyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEAUYQNIBCDY3OTJqMGo3qAIAsAIA%26sourceid%3Dchrome%26ie%3DUTF-8">
+
+
