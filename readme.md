@@ -22,7 +22,7 @@ Faction founded and developed by zuoranartemwing, further information needed
 ## Aerillion Pact
 <p align="center"><img src="https://github.com/NEON-XZR/testing-repo/blob/main/aerillion.png" height="600" width="600"></p>
 
-Pact developed by Neon XZR. This pact delivers unique and *absurd* content to filling the battle with more chaos and fun, like a Rotary Ship Serie Unit (Basically an UFO) and literal CIWS. Analyzed by the 3 Factions, Aerillion Pact focuses on more DPS damage (low damage, quick firerate) rather than slow burst damage, althought, not all.
+Pact developed by Neon XZR. This pact delivers unique and *absurd* content to filling the battle with more chaos and fun, like a Rotary Ship Serie Unit (Basically an UFO) and literal CIWS. Analyzed by the 3 Factions, Aerillion Pact focuses on more DPS damage (low damage, fast firerate) rather than slow burst damage, althought, not all.
 
 ## Deltanex
 <p align="center"><img src="https://github.com/zuoranartemwing/MindustryExpansion/blob/main/icon.png" height="100" width="100"></p>
