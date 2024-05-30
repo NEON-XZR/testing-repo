@@ -15,7 +15,7 @@ Mindustry Expansion mod aim for extending the Mindustry Expansion content with v
 This mod has 3 factions/teams, each faction presents content that is unique to that faction. Here's a bit of each faction's content preview:
 
 ## LH Industry
-<p align="center"><img src="https://github.com/zuoranartemwing/MindustryExpansion/blob/main/icon.png" height="100" width="100"></p>
+<p align="center"><img src="https://github.com/NEON-XZR/testing-repo/blob/main/lhi.png" height="600" width="600"></p>
 
 Faction founded and developed by zuoranartemwing, further information needed
 
