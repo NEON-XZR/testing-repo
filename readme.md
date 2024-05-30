@@ -32,8 +32,8 @@ Faction founded and developed by Kanaede, this faction is abandoned for unknown 
 ---
 
 > [!CAUTION]
-> **You can use Our code for free for personal use. Further information is on the [License](https://github.com/zuoranartemwing/MindustryExpansion/blob/main/LICENSE.md)**
+> Mod is still work in progress, expect unbalanced and unfinished content being released.
 
 > [!NOTE]
 > Now support english, Translation not yet accepted.
-> <br>Mod is still work in progress, expect unbalanced and unfinished content being released.
+> <br>**All terms of distribution is based on the [License](https://github.com/zuoranartemwing/MindustryExpansion/blob/main/LICENSE.md) and mindustry modding rules.**
